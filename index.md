@@ -3,7 +3,7 @@ layout: default
 title: Collaboration of Nordic HPC sysadmins, with a broad definition of HPC.
 ---
 
-## NordicHPC
+# NordicHPC
 
 Collaboration of Nordic HPC sysadmins, with a broad definition of HPC.
 
@@ -26,4 +26,4 @@ Please contact radovan.bast@uit.no if you would like to be informed about such e
 ## Sharing of scripts/recipes
 
 Would you like to share a nifty script or solution with others via
-https://github.com/nordichpc? Yes please!
+[https://github.com/nordichpc](https://github.com/nordichpc)? Yes please!
