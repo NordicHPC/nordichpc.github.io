@@ -8,7 +8,9 @@ title: NordicHPC meetings
 ## About
 
 NordicHPC meetings are a time for staff of Nordic computing centers to
-meet up and exchange best practices and tips.
+meet up and exchange best practices and tips.  Computing centers tend
+to be quite independent and conservative, but we all have the same
+problems.  Why not work on solutions together?
 
 ## Next meeting
 

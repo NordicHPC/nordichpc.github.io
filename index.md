@@ -15,6 +15,7 @@ We based in the Nordic area, but inclusive to others.
 ## Goals
 
 Share solutions and problems across centers and across countries.
+Collaborative maintenance of said solutions.
 
 Improve the usability of HPC and large research computing systems for
 the modern world.
