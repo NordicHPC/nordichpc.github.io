@@ -27,11 +27,16 @@ and issues with the hope of improving the user experience but also the
 
 ## Next meet-up
 
+See [meetings](meetings.html).
+
 2-day meeting (lunch-lunch), probably Stockholm or Helsinki area, probably autumn 2019 or spring 2020.
 Please contact radovan.bast@uit.no if you would like to be informed about such events.
 
 
 ## Sharing of scripts/recipes
 
-Would you like to share a nifty script or solution with others via
+See [repository information](repo.html).
+
+Would you like to share a nifty script or solution with others - and
+get help with maintenance and development - via
 [https://github.com/NordicHPC](https://github.com/NordicHPC)? Yes please!
