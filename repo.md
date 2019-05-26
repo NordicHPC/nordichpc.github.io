@@ -18,20 +18,20 @@ period of time (yes, we realize that personal Github accounts are like
 a CV now, it's unfortunate that this is at conflict with group
 maintenance).  There is less benefit of NordicHPC compared to other
 institutional Github organizations, but this provides better
-visibility, more eyes, and more users.
+visibility, more eyes, and more maintainers and users.
 
 
 
 ## General principles
 
-- Scripts should be open source sufficiently so that others can use.
+- Repositories should be open source sufficiently so that others can use.
 
 - We presume that each code will have some primary maintainers.
   However, we recognize that people come and go, so recommend that we
   wait a short time for the main maintainers to accept a pull request,
   then some time for others with knowledge to accept a pull request,
   and then anyone else is assumed to be welcome to accept pull
-  requests.  Those that accept a PR should be aware enough to see
+  requests.  Those that accept a PR should be aware enough to track
   follow-up and help with any problems that may come up afterwards!
 
 - The README should indicate any particular notes related to
@@ -42,16 +42,18 @@ visibility, more eyes, and more users.
   and of course if there's not much documentation it will be assumed
   that it's not very mature.  Try to include at least a basic README.
 
+- As projects get larger, open source community best practices should
+  be followed more and more... in proportion to what is useful.
 
 
 ## Who?
 
 We are called "**Nordic** HPC" but we realize we shouldn't exclude
 others.  Still, we have started as a local community.  We will at
-least add as members anyone working at an academic computing center
+least add as members anyone working at a Nordic academic computing center
 who chooses to be a part of NordicHPC.
 
-Come to our meetings to help decide how our membership will work.
+Come to our meetings to help decide how this works in practice.
 
 
 

@@ -8,7 +8,8 @@ title: NordicHPC meetings
 ## About
 
 NordicHPC meetings are a time for staff of Nordic computing centers to
-meet up and exchange best practices and tips.  Computing centers tend
+meet up and exchange best practices and tips, and work on joint
+software that helps everyone.  Computing centers tend
 to be quite independent and conservative, but we all have the same
 problems.  Why not work on solutions together?
 
@@ -26,5 +27,5 @@ The general idea is:
   at their site, and 5-10 common problems they have.  This allows us
   to network and look for problem-solution pairs.
 - Most of half-day 2: collaborative working together in an
-  unconference-type format.
+  unconference-type format, based on lessons of the first half.
 - Discussion of collaboration models.
