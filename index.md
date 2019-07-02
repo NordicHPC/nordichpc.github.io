@@ -25,12 +25,19 @@ and issues with the hope of improving the user experience but also the
 "sysadmin experience".
 
 
-## Next meet-up
 
-See [meetings](meetings.html).
+## Meetings
 
-2-day meeting (lunch-lunch), probably Stockholm or Helsinki area, probably autumn 2019 or spring 2020.
-Please contact radovan.bast@uit.no if you would like to be informed about such events.
+Next: [Helsinki, November 14-15](2019-11-14-helsinki.md).
+
+In general: [meetings](meetings.html)
+
+2-day meetings (lunch-lunch) in an easy to access city, once or twice
+a year.  Please contact radovan.bast@uit.no if you would like to be
+informed about such events.
+
+
+
 
 
 ## Sharing of scripts/recipes
