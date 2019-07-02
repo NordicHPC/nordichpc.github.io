@@ -13,19 +13,23 @@ software that helps everyone.  Computing centers tend
 to be quite independent and conservative, but we all have the same
 problems.  Why not work on solutions together?
 
+
+
 ## Next meeting
 
-2-day meeting (lunch-lunch), probably Stockholm or Helsinki area,
-probably autumn 2019 or spring 2020. Please contact
-radovan.bast@uit.no if you would like to be informed about such
-events.
+[Helsinki, November 14-15, 2019](2019-11-14-helsinki.html)
 
-## Schedule
 
-The general idea is:
+
+## Programs
+
+Our basic goal is to form a network of sysadmins.
+
+Our standard general plan is:
 - Most of half-day 1: each attendee presents 5-10 cool things that happen
   at their site, and 5-10 common problems they have.  This allows us
   to network and look for problem-solution pairs.
 - Most of half-day 2: collaborative working together in an
   unconference-type format, based on lessons of the first half.
+- Break-out sessions can be reserved in advance.
 - Discussion of collaboration models.
