@@ -5,12 +5,16 @@ title: Collaboration of Nordic HPC sysadmins, with a broad definition of HPC.
 
 # NordicHPC
 
-Collaboration of Nordic HPC sysadmins, with a broad definition of
-HPC. This explicitly includes those providing newer types of systems
-which allow different types of access (more usable, for example) to
-large-scale computing resources.
+NordicHPC is a collaboration of Nordic HPC sysadmins, with a broad
+definition of HPC. This explicitly includes those providing newer
+types of systems which allow different types of access (more usable,
+for example) to large-scale computing resources.  We don't provide
+resources, but serve as a collaboration platform to develop existing
+resources.  We have a special focus on usability.
 
 We are based in the Nordic area, but inclusive to others.
+
+
 
 ## Goals
 
@@ -33,10 +37,15 @@ See [meetings](meetings.html).
 Please contact radovan.bast@uit.no if you would like to be informed about such events.
 
 
-## Sharing of scripts/recipes
 
-See [repository information](repo.html).
+## NordicHPC github repository
 
-Would you like to share a nifty script or solution with others - and
-get help with maintenance and development - via
-[https://github.com/NordicHPC](https://github.com/NordicHPC)? Yes please!
+Sysadmins create a huge amount of small, one-use scripts and larger
+projects as part of their daily work.  Why not share them?  The
+[NordicHPC github organization](https://github.com/NordicHPC) provides
+a way to do that.  It can give your work more visibility, and shared
+maintnance can produce better software for all of us.
+
+See the [repository information](repo.html) for more information.
+
+
