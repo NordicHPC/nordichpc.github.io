@@ -10,7 +10,7 @@ definition of HPC. This explicitly includes those providing newer
 types of systems which allow different types of access (more usable,
 for example) to large-scale computing resources.  We don't provide
 resources, but serve as a collaboration platform to develop existing
-resources.  We have a special focus on usability.
+resources. **We have a special focus on usability.**
 
 We are based in the Nordic area, but inclusive to others.
 
