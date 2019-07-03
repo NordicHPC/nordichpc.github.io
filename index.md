@@ -31,7 +31,7 @@ and issues with the hope of improving the user experience but also the
 
 ## Meetings
 
-Next: [Helsinki, November 14-15](2019-11-14-helsinki.md).
+Next: [Helsinki, November 14-15](2019-11-14-helsinki).
 
 In general: [meetings](meetings.html)
 
