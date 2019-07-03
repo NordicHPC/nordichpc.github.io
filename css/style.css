@@ -1,0 +1,9 @@
+body {
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+
+.top-buffer {
+  margin-top: 30px;
+}
