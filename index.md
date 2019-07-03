@@ -15,7 +15,6 @@ resources.  We have a special focus on usability.
 We are based in the Nordic area, but inclusive to others.
 
 
-
 ## Goals
 
 Share solutions and problems across centers and across countries.
@@ -29,7 +28,6 @@ and issues with the hope of improving the user experience but also the
 "sysadmin experience".
 
 
-
 ## Meetings
 
 Next: [Helsinki, November 14-15](2019-11-14-helsinki.md).
@@ -41,10 +39,6 @@ a year.  Please contact radovan.bast@uit.no if you would like to be
 informed about such events.
 
 
-
-
-
-
 ## NordicHPC github repository
 
 Sysadmins create a huge amount of small, one-use scripts and larger
@@ -54,5 +48,3 @@ a way to do that.  It can give your work more visibility, and shared
 maintnance can produce better software for all of us.
 
 See the [repository information](repo.html) for more information.
-
-
