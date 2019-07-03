@@ -5,7 +5,8 @@ title: Collaboration of Nordic HPC sysadmins, with a broad definition of HPC.
 
 # NordicHPC
 
-NordicHPC is a collaboration of Nordic HPC sysadmins, with a broad
+NordicHPC is a collaboration of Nordic HPC sysadmins, support staff, and application experts,
+with a broad
 definition of HPC. This explicitly includes those providing newer
 types of systems which allow different types of access (more usable,
 for example) to large-scale computing resources.  We don't provide
