@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NordicHPC Github repository
+title: Repository - NordicHPC
 ---
 
 # NordicHPC Github repository
