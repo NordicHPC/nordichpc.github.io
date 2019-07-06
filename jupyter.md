@@ -102,6 +102,9 @@ list`) are installed in the miniconda environment.  They are usually
 Python but can be other languages too.
 [envkernel](https://github.com/NordicHPC/envkernel/) may help here.
 
+*The above instructions will be expanded as needed.*
+
+
 
 ## Site implementations
 
