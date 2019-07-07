@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meetings - NordicHPC
+title: Meetings
 ---
 
 # NordicHPC meetings
