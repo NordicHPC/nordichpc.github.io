@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Collaboration of Nordic HPC staff, with a broad definition of HPC.
+title_full: NordicHPC: Collaboration of Nordic computing center staff and friends
 ---
 
 # NordicHPC
