@@ -55,3 +55,15 @@ a way to do that.  It can give your work more visibility, and shared
 maintnance can produce better software for all of us.
 
 See the [repository information](repo.html) for more information.
+
+
+## Contact
+
+* Mailing list: coming, for announcements and discussion of projects.
+* Chat with us on our [Zulip chat
+  channel](https://coderefinery.zulipchat.com/) - sign up and join the
+  NordicHPC stream.  Currently it is shared with the [CodeRefinery
+  project](https://coderefinery.org) due to overlap but may move
+  sometime else later.  For detailed discussions and organizational
+  planning.
+* Administrative contact: richard dot darst at aalto dot fi.
