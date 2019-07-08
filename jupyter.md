@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jupyter - NordicHPC
+title: Jupyter
 ---
 
 # Jupyter and computing facilities
