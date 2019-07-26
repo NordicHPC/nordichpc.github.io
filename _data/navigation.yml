@@ -1,0 +1,9 @@
+main:
+  - url: '/'
+    text: 'Home'
+  - url: '/meetings/'
+    text: 'Meetings'
+  - url: '/jupyter/'
+    text: 'Jupyter'
+  - url: '/repo/'
+    text: 'Repository'
