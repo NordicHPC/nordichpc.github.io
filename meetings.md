@@ -17,7 +17,7 @@ problems.  Why not work on solutions together?
 
 ## Next meeting
 
-[Helsinki, November 14-15, 2019](2019-11-14-helsinki)
+[Helsinki, November 14-15, 2019](/2019-11-14-helsinki/)
 
 
 
