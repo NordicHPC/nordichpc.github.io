@@ -37,9 +37,9 @@ and issues with the hope of improving the user experience but also the
 
 ## Meetings
 
-Next: [Helsinki, November 14-15](2019-11-14-helsinki).
+Next: [Helsinki, November 14-15](/2019-11-14-helsinki/).
 
-In general: [meetings](meetings.html)
+In general: [meetings](/meetings/)
 
 2-day meetings (lunch-lunch) in an easy to access city, once or twice
 a year.  Please contact radovan.bast@uit.no if you would like to be
@@ -54,7 +54,7 @@ projects as part of their daily work.  Why not share them?  The
 a way to do that.  It can give your work more visibility, and shared
 maintnance can produce better software for all of us.
 
-See the [repository information](repo.html) for more information.
+See the [repository information](/repo/) for more information.
 
 
 ## Contact
