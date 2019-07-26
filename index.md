@@ -1,6 +1,6 @@
 ---
 layout: default
-title_full: NordicHPC: Collaboration of Nordic computing center staff and friends
+title_full: "NordicHPC: Collaboration of Nordic computing center staff and friends"
 ---
 
 # NordicHPC
