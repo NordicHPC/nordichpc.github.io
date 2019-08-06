@@ -33,3 +33,13 @@ Our standard general plan is:
   unconference-type format, based on lessons of the first half.
 - Break-out sessions can be reserved in advance.
 - Discussion of collaboration models.
+
+
+
+## Past meetings and events
+
+* [Reimagining Research Computing](/2019-05-15-neic/) workshop at the
+  Nordic e-Infrastructure Collaboration conference, 2019-05-15.  This
+  was the founding moment of NordicHPC.
+* Jupyter workshop at the same NeIC conference.  Materials are
+  available on the [Jupyter page](/jupyter/)

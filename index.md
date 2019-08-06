@@ -39,7 +39,7 @@ and issues with the hope of improving the user experience but also the
 
 Next: [Helsinki, November 14-15](/2019-11-14-helsinki/).
 
-In general: [meetings](/meetings/)
+In general, including past events: [meetings](/meetings/)
 
 2-day meetings (lunch-lunch) in an easy to access city, once or twice
 a year.  Please contact radovan.bast@uit.no if you would like to be
