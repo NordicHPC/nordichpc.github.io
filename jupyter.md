@@ -34,7 +34,7 @@ basically, how to use Jupyter in practice.  Here are some of the key
 talks:
 
 * [A brief introduction to Jupyter](https://github.com/wikfeldt/neic2019-jupyter-intro)
-* [JupyterHub ≠ x, ∀ x: What is JupyterHub really?](https://docs.google.com/presentation/d/17SBWZ-ettIJkbfsGaQenV70a0lu1nrMAIU2-2uzgv64
+* [JupyterHub ≠ x, ∀ x: What is JupyterHub really?](https://docs.google.com/presentation/d/17SBWZ-ettIJkbfsGaQenV70a0lu1nrMAIU2-2uzgv64)
 * [JupyterHub: tech details for sysadmins](https://docs.google.com/presentation/d/14Q5P1ukvehaZdWW1AE-luPqH-fPmgC9AJ3U6ptNi_GY)
 * [EGI notebooks example](https://drive.google.com/file/d/1N30jEZWCNCjn54bgJ0duNnlOS5xMTNwa)
 * [Batchspawner example](https://docs.google.com/presentation/d/1m1yXIcoRZ1_dczuPGOXxKCoMDy47ka4A8UW7sraC2PM)

@@ -42,4 +42,4 @@ Our standard general plan is:
   Nordic e-Infrastructure Collaboration conference, 2019-05-15.  This
   was the founding moment of NordicHPC.
 * Jupyter workshop at the same NeIC conference.  Materials are
-  available on the [Jupyter page](/jupyter/)
+  available on the [Jupyter page](/jupyter/).
