@@ -5,7 +5,7 @@ title_full: "NordicHPC: Collaboration of Nordic computing center staff and frien
 
 # NordicHPC
 
-We are a loose collaboration computing facility staff and
+We are a loose collaboration of computing facility staff and
 friends. Most of us are somewhere between application experts or
 sysadmins of clusters, those who are the front line of supporting
 research and deal with all of the daily mess. We have a special
