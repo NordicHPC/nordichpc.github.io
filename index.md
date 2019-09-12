@@ -9,8 +9,7 @@ We are a loose collaboration of computing facility staff and
 friends. Most of us are somewhere between application experts or
 sysadmins of clusters, those who are the front line of supporting
 research and deal with all of the daily mess. We have a special
-focuses on usability and reimagining HPC for the modern age, loose
-collaboration of development, and networking within users and staff.
+focus on usability and reimagining HPC for the modern age.
 
 This explicitly includes those providing newer types of systems which
 allow different types of access (more usable, for example) to
